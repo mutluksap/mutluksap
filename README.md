@@ -3,7 +3,7 @@
 * 🌱 I’m currently learning frontend and backend
 * 📫 How to reach me: mtlksp@gmail.com
 ### Languages and Tools:
-[HTML5](https://raw.githubusercontent.com/mutluksap/mutluksap/5fd2e0e5c2acb131948a59d47d4657c158eecff0/icons/html5.svg)
+![HTML5](/icons/html5.svg)
 ### Connect With Me
 asdasd
 
