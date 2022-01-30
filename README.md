@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi 👋, I'm Mutlu Kasap
+### I'm a Frontend Developer
+* 🌱 I’m currently learning frontend and backend
+* 📫 How to reach me: mtlksp@gmail.com
+### Languages and Tools:
+asdasd
+### Connect With Me
+asdasd
+
 
 <!--
 **mutluksap/mutluksap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
