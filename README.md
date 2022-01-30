@@ -22,3 +22,10 @@
 [![Twitter](https://raw.githubusercontent.com/mutluksap/mutluksap/c689ab54d6bbf3333387cfac81c6b4e68c64318f/icons/twitter.svg)](https://twitter.com/mutluksap)
 [![Linkedin](https://raw.githubusercontent.com/mutluksap/mutluksap/c689ab54d6bbf3333387cfac81c6b4e68c64318f/icons/linkedin.svg)](https://www.linkedin.com/in/mutlukasap/)
 [![Instagram](https://raw.githubusercontent.com/mutluksap/mutluksap/c689ab54d6bbf3333387cfac81c6b4e68c64318f/icons/instagram.svg)](https://www.instagram.com/mutluksap/)
+
+
+<style>
+    a {
+        margin-right: 8px;
+    }
+</style>
