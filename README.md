@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mutlu Kasap
 ### I'm a Frontend Developer
-* 🔭 I’m currently working on
+* 🔭 I’m currently working on frontend
 * 🌱 I’m currently learning backend
 * 📫 How to reach me: mtlksp@gmail.com
 ### Languages and Tools:
