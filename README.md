@@ -18,7 +18,7 @@
 [![Markdown](https://raw.githubusercontent.com/mutluksap/mutluksap/720bf59a83326344d1c13d0d14627d95c5262b7d/icons/markdown.svg)](https://www.markdownguide.org/)
 [![JQuery](https://raw.githubusercontent.com/mutluksap/mutluksap/720bf59a83326344d1c13d0d14627d95c5262b7d/icons/jquery.svg)](https://jquery.com/)
 
-### Connect With Me
+### Connect With Me:
 [![Twitter](https://raw.githubusercontent.com/mutluksap/mutluksap/c689ab54d6bbf3333387cfac81c6b4e68c64318f/icons/twitter.svg)](https://twitter.com/mutluksap)
 [![Linkedin](https://raw.githubusercontent.com/mutluksap/mutluksap/c689ab54d6bbf3333387cfac81c6b4e68c64318f/icons/linkedin.svg)](https://www.linkedin.com/in/mutlukasap/)
 [![Instagram](https://raw.githubusercontent.com/mutluksap/mutluksap/c689ab54d6bbf3333387cfac81c6b4e68c64318f/icons/instagram.svg)](https://www.instagram.com/mutluksap/)
