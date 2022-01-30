@@ -14,6 +14,8 @@
 ![Firebase](https://raw.githubusercontent.com/mutluksap/mutluksap/5ffef42f7aae54522ab34195bc8fcd053f336522/icons/firebase.svg)
 ![Git](https://raw.githubusercontent.com/mutluksap/mutluksap/5ffef42f7aae54522ab34195bc8fcd053f336522/icons/git.svg)
 ![npm](https://raw.githubusercontent.com/mutluksap/mutluksap/5ffef42f7aae54522ab34195bc8fcd053f336522/icons/npm.svg)
+![Markdown](https://raw.githubusercontent.com/mutluksap/mutluksap/720bf59a83326344d1c13d0d14627d95c5262b7d/icons/markdown.svg)
+![JQuery](https://raw.githubusercontent.com/mutluksap/mutluksap/720bf59a83326344d1c13d0d14627d95c5262b7d/icons/jquery.svg)
 
 ### Connect With Me
 asdasd
